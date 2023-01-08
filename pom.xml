@@ -34,6 +34,7 @@
 				<configuration>
 					<tagNameFormat>sfg-pet-clinic-@{project.version}</tagNameFormat>
 					<goals>install</goals>
+					<autoVersionSubmodules>true</autoVersionSubmodules>
 				</configuration>
 			</plugin>
 <!--			<plugin>-->
