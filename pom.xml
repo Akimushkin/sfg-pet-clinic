@@ -33,6 +33,7 @@
 				<version>2.5.3</version>
 				<configuration>
 					<tagNameFormat>sfg-pet-clinic-@{project.version}</tagNameFormat>
+					<goals>install</goals>
 				</configuration>
 			</plugin>
 <!--			<plugin>-->
